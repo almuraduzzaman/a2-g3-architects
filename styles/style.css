@@ -428,6 +428,10 @@ nav {
         position: sticky;
     }
 
+    .last-features-container button span {
+        font-size: 50px;
+    }
+
     /* facts-container */
 
     .facts h2 {
