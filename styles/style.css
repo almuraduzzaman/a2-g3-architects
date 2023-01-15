@@ -92,12 +92,16 @@ nav {
     list-style: none;
     font-weight: 500;
     font-size: 18px;
-    color: #424242;
 }
 
 .menu ul li a {
     text-decoration: none;
     margin-left: 35px;
+    color: #424242;
+}
+
+.menu ul li a:hover {
+    color: #424242;
 }
 
 .menu ul li a:visited {
@@ -459,8 +463,8 @@ nav {
     /* footer section  */
     .copyright-container {
         width: 80%;
-        height: 60px;
-        margin: 30px 40px 30px 40px;
+        height: 9vh;
+        margin: 30px 40px;
     }
 
     .copyright {
